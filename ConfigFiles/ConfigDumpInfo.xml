@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.21">
+	<ConfigVersions>
+		<Metadata name="Catalog.ВидыЦен" id="ce112349-b5b3-4152-9c58-35de3fe2b128" configVersion="612c9de139479d9fc0eeac337d5b8365a4c735c7"/>
+		<Metadata name="Catalog.Номенклатура" id="36cba3f2-0cea-45eb-88f7-f8c1a2ab4679" configVersion="218f3b1a8ecd4304c059a4d0865c09fba48c2b14"/>
+		<Metadata name="Configuration.Списание" id="86bbef64-d36c-4830-8b8c-7f4d827ed17c" configVersion="af3f7209022c3aeadc77a8f461d5212629936581"/>
+		<Metadata name="Constant.ЗакупочнаяЦена" id="1c5f431d-4db9-41f8-ad10-a23589943415" configVersion="1de3a95450f16ec89f6b97897343290415f2929e"/>
+		<Metadata name="Document.СписаниеЗапасов" id="b451e290-432b-4001-8460-b75bca2d8379" configVersion="cb04ff359e91dd0285a86e83ef6070f3d3923409">
+			<Metadata name="Document.СписаниеЗапасов.TabularSection.Запасы.Attribute.Стоимость" id="3116250a-cda5-439a-94cc-e98e369ecb51"/>
+			<Metadata name="Document.СписаниеЗапасов.TabularSection.Запасы" id="6954352c-8c14-41df-8c81-06c7ab3c03f9"/>
+			<Metadata name="Document.СписаниеЗапасов.Attribute.ОбщаяСтоимостьСписания" id="ebd67b49-96e8-4624-8fff-20f9b6a0f9cc"/>
+		</Metadata>
+		<Metadata name="Document.СписаниеЗапасов.Form.ФормаДокумента" id="34773ddb-bd0d-44e9-98db-754cb369c7a2" configVersion="2eca491df65f44567ba026556de704acacba7cef"/>
+		<Metadata name="Document.СписаниеЗапасов.Form.ФормаДокумента.Form" id="34773ddb-bd0d-44e9-98db-754cb369c7a2.0" configVersion="3e2c1f33e3907fca550c20ac248dbe5027f4a5f6"/>
+		<Metadata name="Document.СписаниеЗапасов.Form.ФормаСписка" id="b5ea68f8-fc83-4d31-baeb-d2c458db83e8" configVersion="e282b85efbbdcf0bc9857a0ec7b12b611c3dbb93"/>
+		<Metadata name="Document.СписаниеЗапасов.Form.ФормаСписка.Form" id="b5ea68f8-fc83-4d31-baeb-d2c458db83e8.0" configVersion="89080c8be70c12a4d8ffd263a5a5c32cbd464915"/>
+		<Metadata name="InformationRegister.ЦеныНоменклатуры" id="c3ad19e6-d25b-4327-94b9-0d052426d7a7" configVersion="84fe52a2f8782c39f05fb0cc0ada67b72e8116d9">
+			<Metadata name="InformationRegister.ЦеныНоменклатуры.Dimension.ВидЦен" id="05f598a4-d478-4609-88f9-ce8f2e0e89f2"/>
+			<Metadata name="InformationRegister.ЦеныНоменклатуры.Resource.Цена" id="7b8740a6-0306-4e02-bc76-4ba2202f783a"/>
+			<Metadata name="InformationRegister.ЦеныНоменклатуры.Dimension.Номенклатура" id="d8de16c9-f685-49a7-9e55-9dde9a5665ca"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="78c08b12-8f0b-4e53-9a52-9da374c0e990" configVersion="7db5820a0e9da209d606b0f55b0b5c8ff2177194"/>
+		<Metadata name="Role.Расш1_ОсновнаяРоль" id="1e431842-6f74-4a84-bb2d-65476599ffd8" configVersion="a06e7c39abd8f0bd2fc5bf7f4b12527bd8f06215"/>
+		<Metadata name="Role.Расш1_ОсновнаяРоль.Rights" id="1e431842-6f74-4a84-bb2d-65476599ffd8.0" configVersion="d5fbe0ec54297c6c944027b031dbe7e8d80bb264"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
